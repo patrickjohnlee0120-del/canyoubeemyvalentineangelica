@@ -18,7 +18,7 @@ const NoButton: React.FC<NoButtonProps> = ({ onAccept }) => {
     "Oops! I don’t think so 😜",
     "Wait… sure ka ba dyan bebi? 🥺",
     "Lahh… 💔",
-    "Bebii?:(( 😢",
+    "Noo?:(( 😢",
     "NOOOOOOO:(",
     "Fine, have it your way... ✨"
   ];
